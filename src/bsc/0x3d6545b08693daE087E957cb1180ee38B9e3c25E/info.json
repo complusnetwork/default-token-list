@@ -1,0 +1,7 @@
+{
+    "name": "Ethereum Classic",
+    "website": "https://ethereumclassic.org/",
+    "short_description": "Ethereum Classic is a decentralized network that supports smart contracts. It was created by Vitalik Buterin in 2013. Following the DAO hack in 2016, several members of the Ethereum community rejected the idea of a hard-fork to revert transactions (and return funds to the DAO participants), leading to the split between Ethereum and Ethereum Classic.",
+    "explorer": "https://bscscan.com/token/0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+    "research": "https://research.binance.com/en/projects/ethereum-classic"
+}

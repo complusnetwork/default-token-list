@@ -1,0 +1,7 @@
+{
+    "name": "MakerDAO",
+    "website": "https://makerdao.com/en/",
+    "short_description": "MakerDAO is a decentralized stablecoin platform, operating on the Ethereum blockchain. By staking the MKR token, users can vote on network specs and governance initiatives, including the stability fee, collateralization rates, and assets allowed to be used as collateral, etc.",
+    "explorer": "https://bscscan.com/token/0x5f0Da599BB2ccCfcf6Fdfd7D81743B6020864350",
+    "research": "https://research.binance.com/en/projects/maker"
+}

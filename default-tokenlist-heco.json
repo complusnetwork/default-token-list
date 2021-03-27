@@ -1,0 +1,331 @@
+{
+  "name": "Complus Tokenlist",
+  "timestamp": "2020-09-20T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
+  "keywords": [
+    "complus",
+    "bnb",
+    "bsc",
+    "bep20",
+    "avax",
+    "ava labs",
+    "arc20",
+    "huobi",
+    "heco",
+    "hrc20",
+    "default",
+    "token",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xd329D4fB3e3F666f7499962FA097447Eb8505942",
+      "chainId": 128,
+      "name": "COMPLUS",
+      "symbol": "COM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xd329D4fB3e3F666f7499962FA097447Eb8505942/logo.png"
+    },
+    {
+      "address": "0xf77d7585D6585eb3AdC6B4e86BFb20467c05aB68",
+      "chainId": 128,
+      "name": "XCom",
+      "symbol": "xCOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xf77d7585D6585eb3AdC6B4e86BFb20467c05aB68/logo.png"
+    },
+    {
+      "address": "0x24636DA5437d7DD412AE1652075F29315FBAc733",
+      "chainId": 128,
+      "name": "COM+",
+      "symbol": "COM+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x24636DA5437d7DD412AE1652075F29315FBAc733/logo.png"
+    },
+    {
+      "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+      "chainId": 128,
+      "name": "AAVE Token",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x202b4936fE1a82A4965220860aE46d7d3939Bb25/logo.png"
+    },
+    {
+      "address": "0x5A6B72Dd6209A770aE1C02a7A2E1900636072d0b",
+      "chainId": 128,
+      "name": "ARPA Token",
+      "symbol": "ARPA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x5A6B72Dd6209A770aE1C02a7A2E1900636072d0b/logo.png"
+    },
+    {
+      "address": "0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625",
+      "chainId": 128,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625/logo.png"
+    },
+    {
+      "address": "0x045De15Ca76e76426E8Fc7cba8392A3138078D0F",
+      "chainId": 128,
+      "name": "BAL Token",
+      "symbol": "BAL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x045De15Ca76e76426E8Fc7cba8392A3138078D0F/logo.png"
+    },
+    {
+      "address": "0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375",
+      "chainId": 128,
+      "name": "HBCH Token",
+      "symbol": "BCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xeF3CEBD77E0C52cb6f60875d9306397B5Caca375/logo.png"
+    }, 
+    {
+      "address": "0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb",
+      "chainId": 128,
+      "name": "BETH Token",
+      "symbol": "BETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb/logo.png"
+    },
+    {
+      "address": "0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102",
+      "chainId": 128,
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102/logo.png"
+    },
+    {
+      "address": "0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1",
+      "chainId": 128,
+      "name": "HBSV Token",
+      "symbol": "BSV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1/logo.png"
+    },
+    {
+      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+      "chainId": 128,
+      "name": "HBTC Token",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa/logo.png"
+    },
+    {
+      "address": "0x4BF06f76C68D81BDE1F87535fdCb60Adadb01CF5",
+      "chainId": 128,
+      "name": "CNNS Token",
+      "symbol": "CNNS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x4BF06f76C68D81BDE1F87535fdCb60Adadb01CF5/logo.png"
+    },
+    {
+      "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+      "chainId": 128,
+      "name": "DAI Token",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png"
+    },
+    {
+      "address": "0x48C859531254F25e57D1C1A8E030Ef0B1c895c27",
+      "chainId": 128,
+      "name": "Depth Token",
+      "symbol": "DEP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27/logo.png"
+    },
+    {
+      "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+      "chainId": 128,
+      "name": "HDOT Token",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3/logo.png"
+    },
+    {
+      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+      "chainId": 128,
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD/logo.png"
+    },
+    {
+      "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+      "chainId": 128,
+      "name": "HFIL Token",
+      "symbol": "FIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xae3a768f9aB104c69A7CD6041fE16fFa235d1810/logo.png"
+    },
+    {
+      "address": "0x2AAFe3c9118DB36A20dd4A942b6ff3e78981dce1",
+      "chainId": 128,
+      "name": "GOF Token",
+      "symbol": "GOF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x2AAFe3c9118DB36A20dd4A942b6ff3e78981dce1/logo.png"
+    },
+    {
+      "address": "0x894b2917c783514c9e4c24229bF60f3Cb4c9c905",
+      "chainId": 128,
+      "name": "HBC Token",
+      "symbol": "HBC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x894b2917c783514c9e4c24229bF60f3Cb4c9c905/logo.png"
+    },
+    {
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "chainId": 128,
+      "name": "HPT Token",
+      "symbol": "HPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xE499Ef4616993730CEd0f31FA2703B92B50bB536/logo.png"
+    },
+    {
+      "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+      "chainId": 128,
+      "name": "HUSD Token",
+      "symbol": "HUSD",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047/logo.png"
+    },
+    {
+      "address": "0xE131F048D85f0391A24435eEFB7763199B587d0e",
+      "chainId": 128,
+      "name": "LAMB Token",
+      "symbol": "LAMB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xE131F048D85f0391A24435eEFB7763199B587d0e/logo.png"
+    },
+    {
+      "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
+      "chainId": 128,
+      "name": "LINK Token",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x9e004545c59D359F6B7BFB06a26390b087717b42/logo.png"
+    },
+    {
+      "address": "0xbf22F76657601A522Cf9Ac832718A3404302D6bC",
+      "chainId": 128,
+      "name": "LRC Token",
+      "symbol": "LRC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xbf22F76657601A522Cf9Ac832718A3404302D6bC/logo.png"
+    },
+    {
+      "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+      "chainId": 128,
+      "name": "HLTC Token",
+      "symbol": "LTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4/logo.png"
+    },
+    {
+      "address": "0x62057691DD4970dD109231b2658Ff201E15E767a",
+      "chainId": 128,
+      "name": "PAXHECO Token",
+      "symbol": "PAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x62057691DD4970dD109231b2658Ff201E15E767a/logo.png"
+    },
+    {
+      "address": "0x96674f8da3F9c6ACb4A56b393AF9A490D70D16d0",
+      "chainId": 128,
+      "name": "SKM Token",
+      "symbol": "SKM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x96674f8da3F9c6ACb4A56b393AF9A490D70D16d0/logo.png"
+    },
+    {
+      "address": "0x777850281719d5a96C29812ab72f822E0e09F3Da",
+      "chainId": 128,
+      "name": "SNX Token",
+      "symbol": "SNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x777850281719d5a96C29812ab72f822E0e09F3Da/logo.png"
+    },
+    {
+      "address": "0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3",
+      "chainId": 128,
+      "name": "SWFTC Token",
+      "symbol": "SWFTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x329dda64Cbc4DFD5FA5072b447B3941CE054ebb3/logo.png"
+    },
+    {
+      "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
+      "chainId": 128,
+      "name": "UNI Token",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x22C54cE8321A4015740eE1109D9cBc25815C46E6/logo.png"
+    },
+    {
+      "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+      "chainId": 128,
+      "name": "USDCHECO Token",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
+    },
+    {
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+      "chainId": 128,
+      "name": "USDTHECO Token",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a/logo.png"
+    },
+    {
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+      "chainId": 128,
+      "name": "Wrapped HT",
+      "symbol": "WHT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png"
+    },
+    {
+      "address": "0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35",
+      "chainId": 128,
+      "name": "YFI Token",
+      "symbol": "YFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xB4F019bEAc758AbBEe2F906033AAa2f0F6Dacb35/logo.png"
+    },
+    {
+      "address": "0x892F0bCA7CEb56773E7A9AcfD733Ba9f38dd12F3",
+      "chainId": 128,
+      "name": "ARGENT",
+      "symbol": "XAG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x892F0bCA7CEb56773E7A9AcfD733Ba9f38dd12F3/logo.png"
+    },
+    {
+      "address": "0x3fC391485EF16775eB17eE5Ba63238d1cd3C434d",
+      "chainId": 128,
+      "name": "CUPRUM",
+      "symbol": "XCU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x3fC391485EF16775eB17eE5Ba63238d1cd3C434d/logo.png"
+    },
+    {
+      "address": "0x45e97daD828AD735af1dF0473fc2735F0Fd5330c",
+      "chainId": 128,
+      "name": "HXTZ Token",
+      "symbol": "XTZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x45e97daD828AD735af1dF0473fc2735F0Fd5330c/logo.png"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "CUPRUM",
+    "website": "https://complus.network/cuprum",
+    "short_description": "Cuprum is a HRC20 token and it's value equal to one pound (lb) of Copper. It is Ownable, Pausable, Burn and Mint controlled by a central SupplyController",
+    "explorer": "https://scan.hecochain.com/address/0x3fC391485EF16775eB17eE5Ba63238d1cd3C434d#contracts"
+}

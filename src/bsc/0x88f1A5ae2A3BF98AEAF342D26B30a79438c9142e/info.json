@@ -1,0 +1,7 @@
+{
+    "name": "yearn.finance",
+    "website": "https://yearn.finance/",
+    "short_description": "The YFI token is the native utility token in the yearn.finance platform. Users can earn it by contributing liquidity to yearn.finance's aggregated liquidity pool, or ypool, and use the token for platform governance.",
+    "explorer": "https://bscscan.com/token/0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
+    "research": "https://research.binance.com/en/projects/yearnfinance"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@complus/default-token-list",
+  "license": "MIT",
+  "version": "0.2.0",
+  "description": "The Complus Network default token list",
+  "main": "default-tokenlist-bsc.json",
+  "files": [
+    "default-tokenlist-bsc.json",
+    "default-tokenlist-heco.json",
+    "default-tokenlist-ava.json"
+  ],
+  "author": "_sudosu_ | https://twitter.com/_sudosu_",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/complusnetwork/default-token-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/complusnetwork/default-token-list/issues"
+  },
+  "keywords": [
+    "complus",
+    "bnb",
+    "bsc",
+    "bep20",
+    "avax",
+    "ava labs",
+    "ava20",
+    "huobi",
+    "heco",
+    "hrc20",
+    "default",
+    "token",
+    "list"
+  ]
+}
