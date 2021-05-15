@@ -3,12 +3,13 @@
   "timestamp": "2020-09-20T00:00:00+00:00",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
   "keywords": [
     "complus",
+    "erc20",
     "bnb",
     "bsc",
     "bep20",
@@ -18,6 +19,8 @@
     "huobi",
     "heco",
     "hrc20",
+    "polygon",
+    "matic",
     "default",
     "token",
     "list"
@@ -46,6 +49,14 @@
       "symbol": "COM+",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x3AA5f9bC7965E5D5CfE42a33AE7d5CD720113B28/logo.png"
+    },
+    {
+      "address": "0x8aa07670cDCcC2095C6F466570099436fc205c56",
+      "chainId": 56,
+      "name": "BNB BT",
+      "symbol": "BNB+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x8aa07670cDCcC2095C6F466570099436fc205c56/logo.png"
     },
     {
       "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
