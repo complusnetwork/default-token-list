@@ -3,12 +3,13 @@
   "timestamp": "2020-09-20T00:00:00+00:00",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
   "keywords": [
     "complus",
+    "erc20",
     "bnb",
     "bsc",
     "bep20",
@@ -18,6 +19,8 @@
     "huobi",
     "heco",
     "hrc20",
+    "polygon",
+    "matic",
     "default",
     "token",
     "list"
@@ -46,6 +49,14 @@
       "symbol": "COM+",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x24636DA5437d7DD412AE1652075F29315FBAc733/logo.png"
+    },
+    {
+      "address": "0xE158e60EAcdB421bdA20872B2a6077AC6e6A0079",
+      "chainId": 128,
+      "name": "HuobiToken BT",
+      "symbol": "HT+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xE158e60EAcdB421bdA20872B2a6077AC6e6A0079/logo.png"
     },
     {
       "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",

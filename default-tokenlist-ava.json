@@ -3,12 +3,13 @@
   "timestamp": "2020-09-20T00:00:00+00:00",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
   "keywords": [
     "complus",
+    "erc20",
     "bnb",
     "bsc",
     "bep20",
@@ -18,6 +19,8 @@
     "huobi",
     "heco",
     "hrc20",
+    "polygon",
+    "matic",
     "default",
     "token",
     "list"
@@ -46,6 +49,14 @@
         "symbol": "COM+",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xc5B25a5BEd03bB7c9030Dfe5Be56f21f5c3fCB1B/logo.png"
+    },
+    {
+        "address": "0x240e5D2931DB2ee1622517ff25dE70673007820A",
+        "chainId": 43114,
+        "name": "Avalanche BT",
+        "symbol": "AVAX+",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x240e5D2931DB2ee1622517ff25dE70673007820A/logo.png"
     },
     {
         "address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
