@@ -27,6 +27,30 @@
   ],
     "tokens": [
     {
+      "address": "0xaa0E090f0634473C11729eC83Db90f33feCd3b67",
+      "chainId": 137,
+      "name": "COMPLUS",
+      "symbol": "COM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xaa0E090f0634473C11729eC83Db90f33feCd3b67/logo.png"
+    },
+    {
+      "address": "0x7fa892544D49598460B821De4D99E8c28b1Decaa",
+      "chainId": 137,
+      "name": "XCom",
+      "symbol": "xCOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x7fa892544D49598460B821De4D99E8c28b1Decaa/logo.png"
+    },
+    {
+      "address": "0x85DF3e25Fd50961e94eAA8084Eb9eF0Ba3e3441e",
+      "chainId": 137,
+      "name": "COM+",
+      "symbol": "COM+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x85DF3e25Fd50961e94eAA8084Eb9eF0Ba3e3441e/logo.png"
+    },
+    {
       "name": "MATIC BT",
       "address": "0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf",
       "symbol": "MATIC+",
