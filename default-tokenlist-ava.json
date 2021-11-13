@@ -75,14 +75,6 @@
             "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png"
         },
     {
-        "address": "0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f",
-        "chainId": 43114,
-        "name": "BNB",
-        "symbol": "BNB",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f/logo.png"
-    },
-    {
         "address": "0xaEb044650278731Ef3DC244692AB9F64C78FfaEA",
         "chainId": 43114,
         "name": "Binance USD",
@@ -146,14 +138,6 @@
             "symbol": "WETHe",
             "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
         },
-    {
-        "address": "0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf",
-        "chainId": 43114,
-        "name": "HuobiToken",
-        "symbol": "HT",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf/logo.png"
-    },
     {
         "address": "0x421b2a69b886BA17a61C7dAd140B9070d5Ef300B",
         "chainId": 43114,
