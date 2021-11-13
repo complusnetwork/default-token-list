@@ -75,22 +75,6 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
     {
-      "address": "0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf",
-      "chainId": 56,
-      "name": "HuobiToken",
-      "symbol": "HT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf/logo.png"
-    },
-    {
-      "address": "0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f",
-      "chainId": 56,
-      "name": "Avalanche",
-      "symbol": "AVAX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f/logo.png"
-    },
-    {
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 56,
       "name": "XRP Token",
